@@ -35,11 +35,12 @@ background: #4b6c9e;
 background: #4b6c9e;
 }
 #uemlogo {
-float:left;
-margin-left: 15%;
+	float:left;
+	margin-left: 15%;
+	
+	background: #4b6c9e;
+  }
 
-background: #4b6c9e;
-	}
 	#iemlogo {
 		
 	float:left;
