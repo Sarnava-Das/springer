@@ -2,7 +2,7 @@
 	width: 100%;
 	overflow: hidden;
 	white-space: nowrap;
-	position: relative;
+	position: fixed;
 	width: 100%;
 	height: auto;
 	z-index: -1;
