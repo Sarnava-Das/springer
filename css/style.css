@@ -1,6 +1,8 @@
+
 body {
 	margin : 0;
 	padding : 0;
+	
 	background : #2E4057;
 	color : #333;
 	font-size: .80em;
@@ -8,6 +10,7 @@ body {
 	line-height: 20px;
 	max-width: 200%;
 }
+
 #container {
 width : 1200px;
 margin-left : auto;
@@ -21,7 +24,7 @@ color: #696969;
 #iiestlogo{
 float:left;
 width : 150px;
-height :200px;
+height :230px;
 
 
 background: #4b6c9e;
@@ -30,16 +33,17 @@ background: #4b6c9e;
 #springerlogo {
 	float:left;
 	width : 150px;
-	height :200px;
+	height :230px;
 	
 background: #4b6c9e;
 }
 #uemlogo {
-float:left;
-margin-left: 15%;
+	float:left;
+	margin-left: 45%;
+	
+	background: #4b6c9e;
+  }
 
-background: #4b6c9e;
-	}
 	#iemlogo {
 		
 	float:left;
@@ -49,8 +53,8 @@ background: #4b6c9e;
 			}
 #caption{
 position: absolute;
-top:150px;
-margin-left: 1050px;
+top:210px;
+margin-left: 360px;
 font-family: "sans-serif";
 font-size : 13px;
 letter-spacing: 3px;
@@ -62,9 +66,8 @@ width: 200px;
 #topimg {
 float:left;
 width : 900px;
-height : 200px;
-padding : 0;
-margin : 0;
+height : 230px;
+
 color : #333;
 background: #4b6c9e;
 /* url(img/topimg.jpg) no-repeat;*/
@@ -198,11 +201,11 @@ color : #666;
 background : inherit;
 }
 .sidemenu ul li a {
+	
 	background : transparent url(img/list-off.gif) no-repeat left center;
-	padding-left : 15px;
 	text-decoration : none;
 	color : #000;
-	font-size:medium;
+	font-size:small;
     font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
 	font-style: normal;
 	font-weight: normal;
