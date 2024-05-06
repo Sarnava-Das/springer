@@ -200,7 +200,7 @@ background : inherit;
 }
 .sidemenu ul li a {
 	
-	
+	background : transparent url(img/list-off.gif) no-repeat left center;
 	text-decoration : none;
 	color : #000;
 	font-size:small;
