@@ -199,11 +199,11 @@ color : #666;
 background : inherit;
 }
 .sidemenu ul li a {
-	background : transparent url(img/list-off.gif) no-repeat left center;
-	padding-left : 15px;
+	
+	
 	text-decoration : none;
 	color : #000;
-	font-size:medium;
+	font-size:small;
     font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
 	font-style: normal;
 	font-weight: normal;
