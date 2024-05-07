@@ -213,7 +213,7 @@ background-color:#38788E;
 			/*SIDEBAR*/
 #sidebarleft {
 float : left;
-width : 200px;
+width : 210px;
 height: 750px;
 margin : 0 10px 0 0;
 
@@ -249,7 +249,7 @@ background : inherit;
 	background : transparent url(img/list-off.gif) no-repeat left center;
 	text-decoration : none;
 	color : #000;
-	font-size:small;
+	font-size:medium;
     font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
 	font-style: normal;
 	font-weight: normal;
@@ -342,7 +342,7 @@ color : #2f2d2e;
 h2 {
 margin : 10px 0 0 5px;
 padding-left : 10px;
-font-size : 120%;
+font-size : 100%;
 text-transform : uppercase;
 letter-spacing : 5px;
 color : #fff;
